@@ -1,0 +1,4 @@
+interface:
+  display_name: "嘉立创 PCB 绘制与验收"
+  short_description: "复查全板走线和接地，排齐元件位号与接口丝印，用网表和制板文件验收"
+  default_prompt: "用 $easyeda-pcb-workflow 完成这块板的设计或审查，并展示最终图纸和检查证据。"
